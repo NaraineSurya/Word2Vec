@@ -37,3 +37,6 @@ The Google News Dataset includes a pre-trained Word2Vec model trained on a large
 ```bash
 git clone https://github.com/yourusername/word2vec-reddit-google-news.git
 cd word2vec-reddit-google-news
+pip install gensim
+pip install pandas
+pip install nltk
