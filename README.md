@@ -39,7 +39,8 @@ git clone https://github.com/yourusername/word2vec-reddit-google-news.git
 cd word2vec-reddit-google-news
 ```
 
-### Install Dependencies
+2. Install Dependencies:
+   
 ```bash
 pip install gensim
 pip install pandas
